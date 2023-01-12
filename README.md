@@ -10,4 +10,4 @@
 ## Descrição
 O projeto é um layout de um music player.
 
-Para acessar 
+Para acessar [clique aqui](https://valeriasouza28.github.io/rocketseat-boraCodar-desafio1/)
