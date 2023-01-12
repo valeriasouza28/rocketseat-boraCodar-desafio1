@@ -20,6 +20,10 @@ background: #2A2141;
 border-radius: 9px;
 }
 
+.capa-album img {
+  border-radius: 9px;
+}
+
 .name .music{
   font-family: Roboto;
   font-weight: Bold;
