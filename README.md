@@ -1,6 +1,6 @@
 # Rocketseat Projeto Bora Codar - Desafio 01
 
-![player-music](https://user-images.githubusercontent.com/82419677/211965903-6c784243-5eb2-402f-811e-774b9a31d684.png)
+![music-palayer-bon-jovi](https://user-images.githubusercontent.com/82419677/212150480-6141f8a7-0853-4172-85b5-2bd8ff9d4894.png)
 
 
 ## Tecnologias 
